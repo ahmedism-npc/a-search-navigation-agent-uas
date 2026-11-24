@@ -7,8 +7,8 @@
   1. Ahmed Yasser Luma' Nashril Ilah (240605110152)
   2. Fahmi Zaki Darmawan (240605110239)
   3. Muhammad Jalaluddin (240605110235)
-* **Status Berkas:** **PROTOTIPE TAHAP UAS (FINAL & TERVERIFIKASI)**
-* **Lokasi Modul:** `D:\3. TUGAS & MATERI\SMT 5\ARTIFICIAL INTELLIGENCE\algorithm_project\`
+* **Status Berkas:** **PROTOTIPE TAHAP UAS**
+
 
 ---
 
